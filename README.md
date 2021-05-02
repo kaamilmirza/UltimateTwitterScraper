@@ -108,9 +108,9 @@ Option 4 being run:
 
 
 			
-<img src = "https://i.postimg.cc/1tFsvDnD/4option1.jpg" style="width:1500px">
-<img src = "https://i.postimg.cc/qhQ9CJmx/4option2.jpg" style="width:1500px">
-<img src = "https://i.postimg.cc/N2MZ63Sq/4option3.jpg" style="width:1500px">
+<img src = "https://i.postimg.cc/1tFsvDnD/4option1.jpg" style="width:1500px" >
+<img src = "https://i.postimg.cc/ZnhZ20p2/4option2.jpg" style="width:1500px" >
+<img src = "https://i.postimg.cc/Bbcs0sC6/4option3.jpg" style="width:1500px" >
 
 
 
