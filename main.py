@@ -8,7 +8,6 @@ def main():
             4) Find top mentions by multiple accounts
             5) Find most liked tweet and most retweeted tweet 
             of an account 
-            6) Map locations tweets have been sent from 
             """)
     choice = input("Enter your choice: (integer value)")
     try:
