@@ -4,9 +4,6 @@ I learned programming in python and this is my first significant project. This p
 You can give multiple usernames for most of the different tools that are available under this project. I am looking forward to introduce more functionality and 
 write cleaner code as I move ahead in my journey with python.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
