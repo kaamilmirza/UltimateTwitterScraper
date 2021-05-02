@@ -7,7 +7,7 @@ def main():
             3) Get images of a twitter account
             4) Find top mentions by multiple accounts
             5) Find most liked tweet and most retweeted tweet 
-            of an account 
+            of multiple accounts
             """)
     choice = input("Enter your choice: (integer value)")
     try:
