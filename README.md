@@ -105,9 +105,12 @@ Linux/macOS users:
 ### Example of file running
 Option 4 being run:
 
-<img src = "https://i.postimg.cc/1nyktnKz/4option1.jpg" id="responsive-image" >
-<img src = "https://i.postimg.cc/qhQ9CJmx/4option2.jpg" id="responsive-image" >
-<img src = "https://i.postimg.cc/N2MZ63Sq/4option3.jpg" id="responsive-image" >
+
+
+			
+<img src = "https://i.postimg.cc/1tFsvDnD/4option1.jpg" style="width:1500px">
+<img src = "https://i.postimg.cc/qhQ9CJmx/4option2.jpg" style="width:1500px">
+<img src = "https://i.postimg.cc/N2MZ63Sq/4option3.jpg" style="width:1500px">
 
 
 
