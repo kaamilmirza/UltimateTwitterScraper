@@ -1,4 +1,4 @@
-# UltimateTwitterScrapper
+# UltimateTwitterScraper
 
 I learned programming in python and this is my first significant project. This project is meant to help user scrape twitter data of twitter users under any username.
 You can give multiple usernames for most of the different tools that are available under this project. I am looking forward to introduce more functionality and 
