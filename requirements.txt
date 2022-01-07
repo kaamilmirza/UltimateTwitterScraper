@@ -1,5 +1,5 @@
 matplotlib==3.4.1
-nltk==3.6.2
+nltk==3.6.6
 numpy==1.20.2
 oauthlib==3.1.0
 pandas==1.2.4
