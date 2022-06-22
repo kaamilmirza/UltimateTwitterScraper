@@ -1,6 +1,6 @@
 matplotlib==3.4.1
 nltk==3.6.6
-numpy==1.20.2
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==1.2.4
 PySocks==1.7.1
